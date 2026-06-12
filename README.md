@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Gulshan Kumar, a passionate MERN Stack Developer, AI Enthusiast, and Software Engineer dedicated to building scalable, efficient, and impactful digital solutions.
+<img width="1624" height="969" alt="ChatGPT Image Jun 12, 2026, 12_29_44 PM" src="https://github.com/user-attachments/assets/20a595b6-9b22-4e65-952a-bb06dcd76f72" />
 
 
 ## 🌐 Socials:
